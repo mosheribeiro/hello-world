@@ -1,2 +1,3 @@
 # hello-world
-Apenas um repositório para aprendizagem
+Apenas um repositório
+Moshe Ribeiro
